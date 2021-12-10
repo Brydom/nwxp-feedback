@@ -2,7 +2,7 @@
 name: Item request
 about: Suggest a new item for NWXP
 title: ''
-labels: ''
+labels: item request
 assignees: ''
 
 ---
